@@ -1,0 +1,2090 @@
+{
+  "title": "Pistolskyttekortet",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Vad är syftet med grundutbildningen?",
+      "answer": "Introduktion till skyttesporten, kunskap om föreningens verksamhet, öka säkerhetstänkandet, kompetens för att kunna delta i skytteverksamheten",
+      "options": [
+        "Att genomföra obligatorisk militär grundutbildning i skjutning med handeldvapen",
+        "Att uppnå tävlingsresultat som kvalificerar till elitserien inom pistolskytte",
+        "Introduktion till skyttesporten, kunskap om föreningens verksamhet, öka säkerhetstänkandet, kompetens för att kunna delta i skytteverksamheten",
+        "Att erhålla vapenlicens och rätt att inneha pistol för jakt och hemförsvar"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 2,
+      "question": "Vad är Pistolskyttekortet bevis på?",
+      "answer": "Att innehavaren har den teoretiska och praktiska kompetens som erfordras för att bedriva enskilt pistolskytte",
+      "options": [
+        "Att innehavaren har den teoretiska och praktiska kompetens som erfordras för att bedriva enskilt pistolskytte",
+        "Att innehavaren har genomfört vapenhanteringskurs hos Polismyndigheten",
+        "Att innehavaren har tillstånd att inneha och förvara pistol i hemmet",
+        "Att innehavaren är godkänd tävlingsskytt och medlem i landslaget"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 3,
+      "question": "Vem ska ha Pistolskyttekortet?",
+      "answer": "Målet är att alla aktiva pistolskyttar ska inneha Pistolskyttekortet",
+      "options": [
+        "Endast instruktörer och skjutledare inom SPSF-organisationen",
+        "Målet är att alla aktiva pistolskyttar ska inneha Pistolskyttekortet",
+        "Endast medlemmar som innehar egen pistol och vapenlicens",
+        "Endast pistolskyttar som tävlar på nationell nivå eller högre"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 4,
+      "question": "Vilken är förutsättningen för att få ta Pistolskyttekortet?",
+      "answer": "Medlemskap i förening ansluten till Svenska Pistolskytteförbundet",
+      "options": [
+        "Att vara medlem i Svenska Skyttesportförbundet (SvSF) minst ett år",
+        "Att ha avlagt godkänt vapenprov och inneha vapenlicens för pistol",
+        "Att ha fyllt 18 år och genomfört godkänd vapenhanteringskurs hos polisen",
+        "Medlemskap i förening ansluten till Svenska Pistolskytteförbundet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 5,
+      "question": "Vilka är kraven för att erhålla Pistolskyttekortet?",
+      "answer": "1. Godkänt resultat på det teoretiska provet 2. Uppfyllt fordringarna för och löst ut SPSF pistolskyttemärke i brons",
+      "options": [
+        "Uppfyllt bronsmärkesfordringarna och genomfört godkänd vapenhanteringskurs hos polisen",
+        "Godkänt resultat på det praktiska provet inför skjutledare utan teoretiskt prov",
+        "1. Godkänt resultat på det teoretiska provet 2. Uppfyllt fordringarna för och löst ut SPSF pistolskyttemärke i brons",
+        "Godkänt resultat på det teoretiska provet och erhållit silvermärke i vapengrupp C"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 6,
+      "question": "Vad är Bronsmärkesfordringarna i vapengrupp C?",
+      "answer": "1) Tre precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 34 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 50 m eller C 30 på 25 m, 6 skott): minst 5 träff per serie på 60 sekunder (eller erövrat minst en standardmedalj i fältskjutning).",
+      "options": [
+        "1) Tre precisionsserier mot pistoltavla på 50 m, 5 skott, 5 minuters skjuttid: minst 34 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 25 m eller C 30 på 50 m, 6 skott): minst 5 träff per serie på 45 sekunder.",
+        "1) Tre precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 34 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 50 m eller C 30 på 25 m, 6 skott): minst 5 träff per serie på 60 sekunder (eller erövrat minst en standardmedalj i fältskjutning).",
+        "1) Två precisionsserier mot pistoltavla på 25 m, 10 skott, 10 minuters skjuttid: minst 34 poäng i varje serie. 2) Två tillämpningsserier (B 100 på 50 m eller C 30 på 25 m, 6 skott): minst 6 träff per serie på 60 sekunder.",
+        "1) Tre precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 32 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 50 m eller C 30 på 25 m, 6 skott): minst 4 träff per serie på 60 sekunder."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 7,
+      "question": "Nämn minst tre organisationer som sysslar med skytte i Sverige.",
+      "answer": "Svenska Pistolskytteförbundet (SPSF) Svenska Skyttesportförbundet (SvSF) Svenska Svartkruts Skytte Federationen (SSSF) Svenska Dynamiska Sportskytteförbundet (IPSC Sverige) Svenska Westernskytteförbundet (SWSf) Svenska Metallsilhuettförbundet",
+      "options": [
+        "Försvarsmakten, Folkhälsomyndigheten och Naturvårdsverket",
+        "Polismyndigheten, Länsstyrelsen och Arbetsmiljöverket",
+        "Riksidrottsförbundet, Sveriges Olympiska kommitté och Sveriges Riksdag",
+        "Svenska Pistolskytteförbundet (SPSF) Svenska Skyttesportförbundet (SvSF) Svenska Svartkruts Skytte Federationen (SSSF) Svenska Dynamiska Sportskytteförbundet (IPSC Sverige) Svenska Westernskytteförbundet (SWSf) Svenska Metallsilhuettförbundet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 8,
+      "question": "Vilken organisation svarar för Sveriges deltagande i internationella sportskyttetävlingar såsom OS?",
+      "answer": "Svenska Skyttesportförbundet",
+      "options": [
+        "Riksidrottsförbundet (RF)",
+        "Svenska Skyttesportförbundet",
+        "Svenska Pistolskytteförbundet (SPSF)",
+        "Svenska Olympiska kommittén (SOK) direkt utan förbundsmedverkan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 9,
+      "question": "När startade Svenska Pistolskytteförbundet (SPSF) sin verksamhet?",
+      "answer": "1936",
+      "options": [
+        "1926",
+        "1956",
+        "1946",
+        "1936"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 10,
+      "question": "Vad är SPSF verksamhetsidé?",
+      "answer": "Främja och utveckla skyttet med pistol och revolver och därmed verka för ökad skjutskicklighet och en ansvarsfull och säker hantering av vapnen",
+      "options": [
+        "Att verka för att fler svenskar innehar vapenlicens och egen pistol för sportskytte",
+        "Främja och utveckla skyttet med pistol och revolver och därmed verka för ökad skjutskicklighet och en ansvarsfull och säker hantering av vapnen",
+        "Att samla in medlemsavgifter och administrera tävlingsresultat inom pistolskytte",
+        "Att utbilda och förse Försvarsmakten med skjutinstruktörer och tävlingsskyttar"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 11,
+      "question": "Vad innebär det att SPSF är en frivillig försvarsorganisation?",
+      "answer": "Bedriver utbildning av personal för Försvarsmaktens behov",
+      "options": [
+        "Att förbundet bedriver obligatorisk totalförsvarsutbildning för alla pistolskyttar",
+        "Att alla medlemmar har skyldighet att genomföra militär grundutbildning i skytte",
+        "Bedriver utbildning av personal för Försvarsmaktens behov",
+        "Att organisationen tillhandahåller vapen och ammunition till Försvarsmakten vid krig"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 12,
+      "question": "Vilka typer av skytte bedrivs av SvSF?",
+      "answer": "Sportskytte och nationellt gevärsskytte",
+      "options": [
+        "Sportskytte och nationellt gevärsskytte",
+        "Svartkrutsskytte, westernskytte och metallmålsskytte",
+        "Dynamiskt sportskytte (IPSC) och nordisk akrobatisk skidskytte",
+        "Pistolskytte och revolverskytte enligt SPSF:s grenar och bestämmelser"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 13,
+      "question": "Vad är SISU Idrottsutbildarna? Vad utgår verksamheten från?",
+      "answer": "SISU Idrottsutbildarna är idrottsrörelsens studieförbund (folkbildning, utbildning och föreningsutveckling). På distriktsnivå sker mycket arbete via RF-SISU. Verksamheten utgår från idrottens behov av utveckling och bildning.",
+      "options": [
+        "SISU Idrottsutbildarna är idrottsrörelsens studieförbund (folkbildning, utbildning och föreningsutveckling). På distriktsnivå sker mycket arbete via RF-SISU. Verksamheten utgår från idrottens behov av utveckling och bildning.",
+        "SISU Idrottsutbildarna är ett kommersiellt utbildningsföretag som säljer kurser till föreningar. Verksamheten utgår från marknadens efterfrågan på certifieringar.",
+        "SISU Idrottsutbildarna är en statlig myndighet som reglerar idrottens tävlingsregler. Verksamheten utgår från regeringens beslut om idrottspolitik.",
+        "SISU Idrottsutbildarna är pistolskytteförbundets interna utbildningsavdelning. Verksamheten utgår från SPSF:s tävlingsbestämmelser och märkesfordringar."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 14,
+      "question": "Vad grundar sig svenskt föreningsliv på?",
+      "answer": "Demokratiska principer och ideellt arbetande medlemmar",
+      "options": [
+        "Hierarkiska ledningsstrukturer med tillsatt ledning från myndighetshåll",
+        "Demokratiska principer och ideellt arbetande medlemmar",
+        "Kommersiella principer med vinstsyfte och betald personal",
+        "Statliga regleringar och anställda tjänstemän som driver verksamheten"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 15,
+      "question": "Vilka rättigheter respektive skyldigheter har du som medlem?",
+      "answer": "Rättigheter: delta i föreningens verksamhet och få information om verksamheten Skyldigheter: betala avgift, följa stadgar/bestämmelser, ha intresse, medverka i föreningsarbetet",
+      "options": [
+        "Rättigheter: betala avgift, följa stadgar och medverka i föreningsarbetet. Skyldigheter: delta i verksamheten och få information om föreningen.",
+        "Rättigheter: välja styrelse och besluta om föreningens ekonomi. Skyldigheter: delta i alla träningar och tävlingar som föreningen anordnar.",
+        "Rättigheter: delta i föreningens verksamhet och få information om verksamheten Skyldigheter: betala avgift, följa stadgar/bestämmelser, ha intresse, medverka i föreningsarbetet",
+        "Rättigheter: använda föreningens vapen utan skjutledare. Skyldigheter: rapportera tävlingsresultat till SPSF och polisen."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 16,
+      "question": "Vad är stadgar?",
+      "answer": "Föreningens spelregler",
+      "options": [
+        "Föreningens spelregler",
+        "Föreningens årsredovisning",
+        "Medlemsavgifter för året",
+        "Banans säkerhetsregler"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 17,
+      "question": "Vad sker vid årsmötet?",
+      "answer": "Vid årsmötet får alla föreningens medlemmar vara med och bestämma vilken inriktning föreningens verksamhet ska ha. Man väljer också en styrelse.",
+      "options": [
+        "Vid årsmötet genomförs föreningens årliga skjuttävling och utdelning av märken. Styrelsen utses av förbundet, inte av medlemmarna.",
+        "Vid årsmötet får alla föreningens medlemmar vara med och bestämma vilken inriktning föreningens verksamhet ska ha. Man väljer också en styrelse.",
+        "Vid årsmötet beslutar styrelsen ensam om verksamhetens inriktning. Medlemmarna har endast rätt att närvara som åhörare.",
+        "Vid årsmötet granskas och fastställs föreningens bokslut och revisorsberättelse. Medlemmarna deltar inte i beslut om verksamhetens inriktning."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 18,
+      "question": "Skyttevett: Hur bör man uppträda?",
+      "answer": "Så att man inte utsätter sig själv eller andra för fara",
+      "options": [
+        "Så att man skjuter snabbt och effektivt utan onödiga avbrott",
+        "Så att man inte utsätter sig själv eller andra för fara",
+        "Så att man alltid prioriterar bästa möjliga tävlingsresultat",
+        "Så att man visar självförtroende och bestämdhet på skjutbanan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 19,
+      "question": "Vilka är de fyra grundstenarna i skyttevett?",
+      "answer": "Säkerhet, ärlighet, hänsyn, disciplin",
+      "options": [
+        "Säkerhet, ärlighet, hänsyn, disciplin",
+        "Hänsyn, disciplin, samarbete, ledarskap",
+        "Ärlighet, mod, styrka, uthållighet",
+        "Säkerhet, snabbhet, precision, tävlingslust"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 2
+      }
+    },
+    {
+      "id": 20,
+      "question": "Vad krävs för att myndigheterna ska ge oss rätt att använda såväl vapen som skjutbanor? Vad ställer det för krav på föreningar och medlemmar?",
+      "answer": "Allmänhetens förtroende Inte agera så att förtroendet skadas",
+      "options": [
+        "Att föreningen uppnår god ekonomi och kan finansiera egen skjutbana",
+        "Att föreningen har tillräckligt många medlemmar och tävlingsvinnare",
+        "Att varje medlem innehar egen pistol och godkänd vapenlicens",
+        "Allmänhetens förtroende Inte agera så att förtroendet skadas"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": 21,
+      "question": "Vad bör man alltid utgå från?",
+      "answer": "Utgå från att alltid behandla ett vapen som om det vore laddat",
+      "options": [
+        "Utgå från att vapnet är oladdat tills du själv har kontrollerat det",
+        "Utgå från att vapnet är oladdat endast när det finns ammunition i magasinet",
+        "Utgå från att alltid behandla ett vapen som om det vore laddat",
+        "Utgå från att vapnet är säkert om magasinet är urtaget"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 22,
+      "question": "Vad är förbjudet?",
+      "answer": "Att sikta mot personer eller i annan riktning som kan innebära fara/vålla skada",
+      "options": [
+        "Att sikta mot marken mellan skjutplatsen och kulfånget",
+        "Att sikta mot personer eller i annan riktning som kan innebära fara/vålla skada",
+        "Att sikta mot en annan skytts måltavla under gemensam träning",
+        "Att sikta rakt uppåt mot taket under vapenkontroll"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 23,
+      "question": "Vem besiktigar och godkänner alla skjutbanor?",
+      "answer": "Polisen",
+      "options": [
+        "Kommunens byggnadsnämnd",
+        "Polisen",
+        "Svenska Pistolskytteförbundet (SPSF)",
+        "Länsstyrelsen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": 24,
+      "question": "Vad är skytte för typ av sport?",
+      "answer": "Koncentrationssport",
+      "options": [
+        "Uthållighetssport",
+        "Koncentrationssport",
+        "Styrkesport",
+        "Lagsport"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 25,
+      "question": "När är enda gången du får störa under skjutning?",
+      "answer": "Om du upptäcker något som kan äventyra säkerheten",
+      "options": [
+        "När du vill uppmärksamma en skytt som skjuter dåliga resultat",
+        "När du behöver ställa en fråga till skjutledaren eller banvärden",
+        "När din egen skjuttid har gått ut och du vill avsluta serien",
+        "Om du upptäcker något som kan äventyra säkerheten"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 26,
+      "question": "Vad ska finnas vid all träning och tävling?",
+      "answer": "Skjutledare",
+      "options": [
+        "Säkerhetsansvarig från polisen",
+        "Skjutledare",
+        "Banvakt",
+        "Tävlingsdomare"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 27,
+      "question": "Vem bestämmer när det är tillåtet att skjuta?",
+      "answer": "Skjutledaren",
+      "options": [
+        "Skjutledaren",
+        "Den skytt som står först i kön till skjutplatsen",
+        "Banvärden eller den som hyr skjutbanan",
+        "Varje enskild skytt efter eget omdöme på banan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 28,
+      "question": "Vad utförs efter skjutning? (Hur?)",
+      "answer": "Visitation (Oladdat/tomt, proppat, magasin separat)",
+      "options": [
+        "Placering av vapnet i hölstret eller vapenfodralet utan kontroll",
+        "Visitation (Oladdat/tomt, proppat, magasin separat)",
+        "Rengöring av vapnet och oljning av låset direkt efter sista skottet",
+        "Nedpackning av vapen och ammunition i samma väska efter skjutningen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 29,
+      "question": "Vad ansvarar var och en som deltar skjutningen för?",
+      "answer": "Att förebygga olyckor och skador",
+      "options": [
+        "Att förebygga olyckor och skador",
+        "Att hålla vapnet oladdat så länge man befinner sig på banan",
+        "Att följa skjutledarens kommandon utan att ifrågasätta dem",
+        "Att säkerställa att alla skott träffar målet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 30,
+      "question": "Hur ska vapen handhas?",
+      "answer": "Med största varsamhet i säker riktning",
+      "options": [
+        "Med pistolen pekad mot marken framför fötterna",
+        "Med magasinet ur och slutstycket öppet vid varje förflyttning",
+        "Avslappnat och utan särskild uppmärksamhet mellan serierna",
+        "Med största varsamhet i säker riktning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 31,
+      "question": "Vad är \"säker riktning\"?",
+      "answer": "Riktning där vapnets mynning inte kan innebära fara eller skada—i praktiken mot målet/kulfånget (skjutriktningen) respektive annan anvisad säker riktning. Även vid rekyl och justering ska mynningen peka säkert.",
+      "options": [
+        "Den riktning banledningen anger, oavsett mål och kulfång",
+        "Riktning dit man siktar, oavsett vad som finns bakom målet",
+        "Riktning där vapnets mynning inte kan innebära fara eller skada—i praktiken mot målet/kulfånget (skjutriktningen) respektive annan anvisad säker riktning. Även vid rekyl och justering ska mynningen peka säkert.",
+        "Alltid rakt fram mot skytten själv vid vapenkontroll"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 32,
+      "question": "Vart är det förbjudet att sikta?",
+      "answer": "Mot personer eller i annan riktning så att det kan innebära fara/vålla skada",
+      "options": [
+        "Mot marken direkt framför skjutplatsen",
+        "Mot personer eller i annan riktning så att det kan innebära fara/vålla skada",
+        "Mot andra skyttars mål under gemensam träning",
+        "Mot kulfånget när någon befinner sig i närheten av banan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 33,
+      "question": "Hur ska vapnen hanteras?",
+      "answer": "I säker riktning",
+      "options": [
+        "Med pipan pekad rakt uppåt mot taket eller himlen",
+        "Liggande på bänken med mynningen vänd mot taket",
+        "Vänd mot egen kropp vid isättning av säkerhetspropp",
+        "I säker riktning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 34,
+      "question": "Hur ska vapnen bäras när de inte används i ett skjutmoment?",
+      "answer": "I hölster eller väska, oladdat med propp/bricka (och magasin urtaget när tillämpligt). Undantag: på skjutplatsen, samt t.ex. vid vapenkontroll, sotning, justering och byte av växelsats.",
+      "options": [
+        "I handen med säkerheten påslagen och magasin i",
+        "I hölster eller väska, oladdat med propp/bricka (och magasin urtaget när tillämpligt). Undantag: på skjutplatsen, samt t.ex. vid vapenkontroll, sotning, justering och byte av växelsats.",
+        "Oladdad med pipan pekad mot taket på skjutplatsen",
+        "På bänken med låst säkring men utan propp eller bricka"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 35,
+      "question": "Vad ska du alltid utgå från?",
+      "answer": "Att varje vapen är laddat",
+      "options": [
+        "Att skjutledaren alltid har kontroll över situationen",
+        "Att säkerhetsproppen alltid sitter i vapnet",
+        "Att vapnet alltid är oladdat",
+        "Att varje vapen är laddat"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 36,
+      "question": "Vad ska du kontrollera innan du hanterar vapen?",
+      "answer": "Att det är oladdat",
+      "options": [
+        "Att magasinet är fullt laddat och korrekt isatt",
+        "Att pistolen är förvarad i hölster",
+        "Att det är oladdat",
+        "Att säkerheten är påslagen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 37,
+      "question": "Vad gäller mellan kommando \"Patron ur\" och \"Ladda\"?",
+      "answer": "Vapnet ska alltid vara försett med säkerhetspropp",
+      "options": [
+        "Vapnet får vara laddat om det hålls i hölster",
+        "Magasinet ska vara urtaget men propp behövs inte",
+        "Säkerheten ska vara påslagen i stället för säkerhetspropp",
+        "Vapnet ska alltid vara försett med säkerhetspropp"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 38,
+      "question": "Vad ska du vara vaksam på?",
+      "answer": "I vilken riktning vapnets mynning pekar",
+      "options": [
+        "Var på banan målet är placerat",
+        "Om skjutledaren har gett startkommando",
+        "Vilken kaliber ammunition som används",
+        "I vilken riktning vapnets mynning pekar"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 39,
+      "question": "Vad ska du alltid kontrollera?",
+      "answer": "Vad som finns bakom målet",
+      "options": [
+        "Hur långt det är till skyttstrecket",
+        "Vad som finns framför målet",
+        "Vad som finns bakom målet",
+        "Om andra skyttar har avslutat sin serie"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 40,
+      "question": "Vad ska alltid finnas vid skjutning?",
+      "answer": "Skjutledare",
+      "options": [
+        "Skjutledare",
+        "Skriftligt tillstånd från banans ägare",
+        "Minst två vittnen till skjutningen",
+        "Första hjälpen-utrustning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 41,
+      "question": "Vad gäller om du är själv på skjutbanan?",
+      "answer": "Är du ensam på banan ansvarar du själv för säkerheten",
+      "options": [
+        "Är du ensam på banan ansvarar du själv för säkerheten",
+        "Skjutledare måste alltid vara närvarande",
+        "Man får aldrig skjuta ensam på banan",
+        "Man ska avbryta skjutningen och vänta på sällskap"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 42,
+      "question": "När ska du aldrig hantera vapen eller ammunition?",
+      "answer": "Om du är påverkad av alkohol eller droger",
+      "options": [
+        "Utanför ordinarie skjuttider på banan",
+        "När skjutledaren inte är närvarande",
+        "Under tiden mellan serier på tävling",
+        "Om du är påverkad av alkohol eller droger"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 43,
+      "question": "Hur förhindrar du olycksfall med barn och vapen?",
+      "answer": "Se till att vapen och ammunition är inlåsta och oåtkomliga för minderåriga",
+      "options": [
+        "Se till att vapen och ammunition är inlåsta och oåtkomliga för minderåriga",
+        "Ha vapnet oladdat hemma för snabb åtkomst vid nödläge",
+        "Låta barn vara med och öva under uppsikt utan låsning",
+        "Förvara ammunition separat men i samma olåsta skåp som vapnet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 44,
+      "question": "Vad gäller om vapnen inte är under din direkta uppsikt och kontroll?",
+      "answer": "Förvaras på ett säkert och lagenligt sätt",
+      "options": [
+        "Förvaras på ett säkert och lagenligt sätt",
+        "De får lämnas olåsta om de är oladdade",
+        "De måste medföras till skjutbanan vid varje utflykt",
+        "De ska alltid bäras i hölster i hemmet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 45,
+      "question": "När anses ett vapen vara laddat?",
+      "answer": "Patron i lopp eller trumma Påfyllt magasin i pistol Påfylld trumma i revolver",
+      "options": [
+        "När säkerheten är påslagen och loppet är tomt utan magasin",
+        "Endast när en skarp patron sitter i patronläget eller trumman",
+        "Patron i lopp eller trumma Påfyllt magasin i pistol Påfylld trumma i revolver",
+        "När vapnet är proppat, magasinet urtaget och loppet är tomt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 46,
+      "question": "Vad är vapenkontrollens ändamål?",
+      "answer": "Trygga säkerheten och fastställa att vapen uppfyller gällande vapenbestämmelser",
+      "options": [
+        "Säkerställa att ammunitionen är av godkänd fabrikatstyp",
+        "Kontrollera att vapnet är korrekt kalibrerat för tävling",
+        "Trygga säkerheten och fastställa att vapen uppfyller gällande vapenbestämmelser",
+        "Fastställa att skytten har giltigt vapenlicens"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 47,
+      "question": "När skall vapenkontroll utföras enligt SHB?",
+      "answer": "Vid alla mästerskap, nationella tävlingar och övriga tävlingar som fyller kraven för standardmedaljens utdelande. (Kan ske som obligatorisk kontroll före start eller utökad stickprovskontroll.)",
+      "options": [
+        "Vid alla mästerskap, nationella tävlingar och övriga tävlingar som fyller kraven för standardmedaljens utdelande. (Kan ske som obligatorisk kontroll före start eller utökad stickprovskontroll.)",
+        "Vid alla träningar och klubbmästerskap utan undantag",
+        "Endast när skytten använder grovkalibrigt vapen",
+        "Endast vid nationella mästerskap och landslagstävlingar"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 48,
+      "question": "Hur ska vapen överlämnas till vapenkontrollant?",
+      "answer": "Oladdat (tömt), proppat, slutstycket framfört/trumman insvängd, magasinet separat",
+      "options": [
+        "Oladdat men med magasin kvar i pistolen",
+        "Proppat men med slutstycket bakåt och trumman utsvängd",
+        "Laddat med säkerheten påslagen och magasin isatt",
+        "Oladdat (tömt), proppat, slutstycket framfört/trumman insvängd, magasinet separat"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 49,
+      "question": "Vilka vapengrupper används i precision? Beskriv närmare.",
+      "answer": "A, B, C A: Grovkalibriga pistoler av tjänstevapentyp (.30-.45), avtryckarvikt minst 1,36 kg B: Grovkalibriga pistoler och revolvrar (.30-.45), avtryckarvikt minst 1 kg C: Finkalibriga pistoler och revolvrar (.22), avtryckarvikt minst 1 kg",
+      "options": [
+        "A, B, C A: Grovkalibriga pistoler av tjänstevapentyp (.30-.45), avtryckarvikt minst 1,36 kg B: Grovkalibriga pistoler och revolvrar (.30-.45), avtryckarvikt minst 1 kg C: Finkalibriga pistoler och revolvrar (.22), avtryckarvikt minst 1 kg",
+        "A, B, D — A: Finkalibriga pistoler (.22), minst 1 kg — B: Grovkalibriga (.30-.45), minst 1,36 kg — D: Revolvrar (.22), minst 0,5 kg",
+        "A, B, C — A: Grovkalibriga pistoler (.30-.45), avtryckarvikt minst 1 kg — B: Finkalibriga (.22), minst 1,36 kg — C: Revolvrar (.45), minst 0,5 kg",
+        "B, C, D — B: Grovkalibriga pistoler och revolvrar (.30-.45), minst 1,36 kg — C: Finkalibriga (.22), minst 0,5 kg — D: Fripistoler, minst 1 kg"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 50,
+      "question": "Vad delas vapnen in efter?",
+      "answer": "Typ och kaliber",
+      "options": [
+        "Fabrikat och modellbeteckning",
+        "Längd på pipa och typ av sikte",
+        "Typ och kaliber",
+        "Kaliber och avtryckarvikt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 51,
+      "question": "Vad sker allt nybörjarskytte med krutvapen med?",
+      "answer": "Finkalibriga pistoler och revolvrar. Endast kaliber .22",
+      "options": [
+        "Finkalibriga pistoler och revolvrar. Endast kaliber .22",
+        "Endast luftvapen och kolsyrepistoler under nybörjarskytte",
+        "Finkalibriga pistoler i valfri kaliber från .22 till .32",
+        "Grovkalibriga pistoler i kaliber .32 och .38"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 52,
+      "question": "Vilket vapen är unikt för sportskytte?",
+      "answer": "Fripistol",
+      "options": [
+        "Standardpistol",
+        "Fripistol",
+        "Sportpistol",
+        "Luftpistol"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 53,
+      "question": "Vad har all ammunition som regel?",
+      "answer": "Blykulor",
+      "options": [
+        "Mantlade kulor",
+        "Blykulor",
+        "Träningsplugg",
+        "Stålprojektiler"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 54,
+      "question": "Vad innebär det att ammunitionen inte är 'hundraprocentig'?",
+      "answer": "Att den har en viss egenspridning",
+      "options": [
+        "Att den innehåller en viss andel defekta patroner",
+        "Att hylsorna inte alltid är av samma fabrikat",
+        "Att den har en viss egenspridning",
+        "Att kulorna har olika vikt inom samma fabrikat"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 55,
+      "question": "Vilken utrustning är OBLIGATORISK och absolut viktigast?",
+      "answer": "Hörselskydd",
+      "options": [
+        "Hörselskydd",
+        "Ögonskydd",
+        "Skyddsväst",
+        "Skjuthandskar"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 56,
+      "question": "Vilket skydd BÖR användas vid allt skytte?",
+      "answer": "Ögonskydd",
+      "options": [
+        "Hörselskydd",
+        "Ögonskydd",
+        "Skyddshandskar",
+        "Huvudskydd"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 57,
+      "question": "Vad kan ingå i skytteutrustningen utöver det obligatoriska?",
+      "answer": "Keps, klocka, kikare, mm",
+      "options": [
+        "Skyddsglasögon, hörselskydd och skjuthandske",
+        "Skjutbälte, magasin och patronbälte",
+        "Säkerhetsskåp, vapenlås och förvaringsnyckel",
+        "Keps, klocka, kikare, mm"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 58,
+      "question": "Vilka regler gäller för klädsel och annan extra utrustning?",
+      "answer": "I reglerna finns inte så mycket som begränsar klädsel och annan extra utrustning. Den får dock inte ge skytten någon obehörig fördel framför övriga skyttar.",
+      "options": [
+        "Endast officiella SPSF-färger och logotyper får bäras på tävling",
+        "Klädseln får inte innehålla metallpartiklar eller förstärkning",
+        "I reglerna finns inte så mycket som begränsar klädsel och annan extra utrustning. Den får dock inte ge skytten någon obehörig fördel framför övriga skyttar.",
+        "All extra utrustning måste godkännas av domaren före tävling"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 59,
+      "question": "Hur reglerar samhället bruket av vapen?",
+      "answer": "Vapenlagen och Vapenförordningen",
+      "options": [
+        "Kommunala ordningsföreskrifter och vapenlagen",
+        "Vapenlagen och Vapenförordningen",
+        "Skjutförbundets regler och tävlingsbestämmelser",
+        "Polislagen och Säkerhetsskyddslagen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 60,
+      "question": "Vad är grunden för att få inneha vapen?",
+      "answer": "Giltigt skäl (behov)",
+      "options": [
+        "Giltigt skäl (behov)",
+        "Giltigt medlemskap",
+        "Polisens godkännande",
+        "Godkänd utbildning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 61,
+      "question": "Nämn fem krav för att få inneha eget vapen.",
+      "answer": "Ha fyllt 18 år Vara aktiv medlem i pistolskytteförening sedan minst 6 månader Ha uppfyllt fordringarna för Svenska Pistolskytteförbundets guldmärke (guldfordringar) Inneha Pistolskyttekortet Vara en allmänt skötsam medborgare",
+      "options": [
+        "Ha fyllt 18 år, vara medlem minst tolv månader, ha uppfyllt bronsfordringarna, inneha jaktkort och vara allmänt skötsam",
+        "Ha fyllt 18 år, vara medlem sedan minst tre månader, ha uppfyllt guldfordringarna, inneha vapenlicens och ha genomgått polisens vapenutbildning",
+        "Ha fyllt 18 år Vara aktiv medlem i pistolskytteförening sedan minst 6 månader Ha uppfyllt fordringarna för Svenska Pistolskytteförbundets guldmärke (guldfordringar) Inneha Pistolskyttekortet Vara en allmänt skötsam medborgare",
+        "Ha fyllt 21 år, vara medlem i pistolskytteförening sedan minst ett år, ha uppfyllt silvermärkets krav, inneha Pistolskyttekortet och vara allmänt skötsam"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 62,
+      "question": "Vad är guldfordringarna i vapengrupp C?",
+      "answer": "1) Tre precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 46 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 50 m eller C 30 på 25 m, 6 skott): minst 6 träff per serie på 15 sekunder (vapengrupp C) (eller erövrat minst en standardmedalj i fältskjutning). Alternativt finns särskilda ersättningsprov för guld enligt Bilaga 1.",
+      "options": [
+        "1) Tre precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 46 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 50 m eller C 30 på 25 m, 6 skott): minst 6 träff per serie på 15 sekunder (vapengrupp C) (eller erövrat minst en standardmedalj i fältskjutning). Alternativt finns särskilda ersättningsprov för guld enligt Bilaga 1.",
+        "1) Tre precisionsserier mot pistoltavla på 50 m, 5 skott, 5 minuters skjuttid: minst 46 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 25 m, 6 skott): minst 6 träff per serie på 15 sekunder (vapengrupp C).",
+        "1) Tre precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 44 poäng i varje serie. 2) Tre tillämpningsserier (B 100 på 25 m, 6 skott): minst 5 träff per serie på 10 sekunder (vapengrupp C).",
+        "1) Två precisionsserier mot pistoltavla på 25 m, 5 skott, 5 minuters skjuttid: minst 46 poäng i varje serie. 2) Tre tillämpningsserier (C 30 på 50 m, 6 skott): minst 6 träff per serie på 20 sekunder (vapengrupp C)."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 63,
+      "question": "Vem ska intyga behovet av vapen?",
+      "answer": "Din förening (föreningsverktyg)",
+      "options": [
+        "Skjutledaren på banan",
+        "Din förening (föreningsverktyg)",
+        "Polismyndigheten via vapenlicensen",
+        "Svenska Pistolskytteförbundets kansli"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 64,
+      "question": "Vad gäller tidsbegränsning av tillstånd för flerskottspistoler och revolvrar från och med 1 juni 2026?",
+      "answer": "Den obligatoriska femårsbegränsningen är borttagen för nya tillstånd. Nya tillstånd gäller tills vidare, men Polismyndigheten kan genom tillsyn förelägga innehavaren att visa att behovet kvarstår. Redan utfärdade femårstillstånd gäller till sitt utgångsdatum och måste därefter ersättas med ny ansökan.",
+      "options": [
+        "Den obligatoriska femårsbegränsningen kvarstår för alla nya tillstånd från och med 1 juni 2026",
+        "Alla befintliga femårstillstånd upphör att gälla omedelbart från och med 1 juni 2026",
+        "Den obligatoriska femårsbegränsningen är borttagen för nya tillstånd. Nya tillstånd gäller tills vidare, men Polismyndigheten kan genom tillsyn förelägga innehavaren att visa att behovet kvarstår. Redan utfärdade femårstillstånd gäller till sitt utgångsdatum och måste därefter ersättas med ny ansökan.",
+        "Nya tillstånd gäller i tre år och måste därefter förnyas med ny ansökan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 65,
+      "question": "Vilken typ av förvaring krävs för licens?",
+      "answer": "För licens krävs att skytten kan förvara vapnet på föreskrivet sätt, dvs. i ett säkerhetsskåp godkänt enligt SS 3492 eller SSF 3492 (eller annat lika säkert förvaringsutrymme som Polisen godtar).",
+      "options": [
+        "För licens krävs att skytten kan förvara vapnet på föreskrivet sätt, dvs. i ett säkerhetsskåp godkänt enligt SS 3492 eller SSF 3492 (eller annat lika säkert förvaringsutrymme som Polisen godtar).",
+        "För licens krävs förvaring i vapenskåp godkänt enligt SS 2087 eller motsvarande",
+        "För licens krävs förvaring i säkerhetsrum godkänt enligt SSF 3492 klass 3",
+        "För licens räcker det med ett låsbart skåp i hemmet utan särskild säkerhetsklass"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 66,
+      "question": "Vilken ammunition har man rätt att inneha?",
+      "answer": "Till de vapen licensen utfärdats för",
+      "options": [
+        "Endast ammunition som köpts via godkänd vapenhandlare",
+        "Max 2000 skott per kaliber och år enligt licensen",
+        "Till alla vapen i vapengrupp C som du är medlem för",
+        "Till de vapen licensen utfärdats för"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 67,
+      "question": "Förvaring under tävling/träning och transport: Vilken är huvudregeln?",
+      "answer": "Vapen, ammunition och utrustning ska hållas under ständig uppsikt",
+      "options": [
+        "Vapen ska vara oladdade och magasinet avtaget under transport till banan",
+        "Vapen och utrustning ska lämnas i vapenrummet vid ankomst till skjutbanan",
+        "Vapen och ammunition ska förvaras i godkänt vapenskåp eller bilens bagageutrymme",
+        "Vapen, ammunition och utrustning ska hållas under ständig uppsikt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 68,
+      "question": "Förvaring under tävling/träning och transport: Vad gäller om du tränar ensam?",
+      "answer": "Om du tränar ensam ansvarar du själv för säkerheten (uppsikten). Det innebär b.la. att du ska ta med dig vapnet vid markering",
+      "options": [
+        "Om du tränar ensam ansvarar du själv för säkerheten (uppsikten). Det innebär b.la. att du ska ta med dig vapnet vid markering",
+        "En annan skytt måste alltid närvara som vittne vid ensam träning",
+        "Vapnet ska förvaras i vapenrummet när du tränar ensam på banan",
+        "Vapnet får lämnas på skjutplatsen om banan har kameraövervakning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 69,
+      "question": "Vad gäller vid tillfälligt kortare avbrott i uppsikten vid biltransport?",
+      "answer": "Går vapnet att dela: förvara delat (ta med vital del) eller använd godkänt vapenlås. Går det inte att dela: godkänt vapenlås. Placera väl gömt i bilen.",
+      "options": [
+        "Vapnet får lämnas olåst i bilens bagageutrymme om du bara är borta några minuter",
+        "Går vapnet att dela: förvara delat (ta med vital del) eller använd godkänt vapenlås. Går det inte att dela: godkänt vapenlås. Placera väl gömt i bilen.",
+        "Vid kortare avbrott räcker det att vapnet är dolt under en jacka i bilen",
+        "Vitala delar ska alltid lämnas kvar i bilen; resten av vapnet tas med"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 70,
+      "question": "Vilka är vitala delar för pistol respektive revolver?",
+      "answer": "Pistol: slutstycke, mantel och pipa. Revolver: trumma.",
+      "options": [
+        "Pistol: slutstycke och avtryckare. Revolver: trumma och mantel",
+        "Pistol: pipa och magasin. Revolver: pipa och slutstycke",
+        "Pistol: låda och magasin. Revolver: cylinder och hammare",
+        "Pistol: slutstycke, mantel och pipa. Revolver: trumma."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 71,
+      "question": "Vilka typer av utlåning finns det? Vad skiljer dem åt?",
+      "answer": "Uppsiktsutlåning: används under långivarens/klubbens uppsikt. Utlåning utan uppsikt: bara när lagens villkor är uppfyllda (t.ex. korttid/lånetillstånd). Enhandsvapen lånas i regel bara ut under uppsikt.",
+      "options": [
+        "Klubbutlåning: vapen lånas ut fritt inom föreningen. Privat utlåning: kräver alltid skriftligt avtal mellan parterna",
+        "Utlåning under uppsikt: endast för medlemmar med eget tillstånd. Utlåning utan uppsikt: kräver alltid lånetillstånd från polisen",
+        "Uppsiktsutlåning: används under långivarens/klubbens uppsikt. Utlåning utan uppsikt: bara när lagens villkor är uppfyllda (t.ex. korttid/lånetillstånd). Enhandsvapen lånas i regel bara ut under uppsikt.",
+        "Tillfällig utlåning: används vid tävling. Permanent utlåning: vid träning utan uppsikt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 72,
+      "question": "Vad behövs för att visa rätt att inneha ett lånat vapen?",
+      "answer": "Tillståndsbevis, låneintyg/lånetillstånd eller motsvarande—beroende på hur lånet sker. Vid uppsikt eller eget tillstånd för samma typ krävs ofta inte separat lånetillstånd.",
+      "options": [
+        "Polisens lånetillstånd krävs alltid, även vid uppsiktsutlåning",
+        "Tillståndsbevis, låneintyg/lånetillstånd eller motsvarande—beroende på hur lånet sker. Vid uppsikt eller eget tillstånd för samma typ krävs ofta inte separat lånetillstånd.",
+        "Endast vapenlicensen och medlemsbevis i föreningen",
+        "Skriftligt köpeavtal eller kvitto från vapenhandlaren"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 73,
+      "question": "Vilka försäkringar har du som aktiv skytt i SPSF? När/var gäller dessa försäkringar?",
+      "answer": "Försäkring som omfattar Ansvar och Olycksfall Vid skytteverksamheten och vid resor till och från skjutbanan",
+      "options": [
+        "Försäkring som omfattar Olycksfall och Sjukvård Endast när du befinner dig på skjutbanan",
+        "Försäkring som omfattar Ansvar och Olycksfall Vid skytteverksamheten och vid resor till och från skjutbanan",
+        "Försäkring som omfattar Ansvar och Olycksfall Endast vid officiella tävlingar arrangerade av SPSF",
+        "Försäkring som omfattar Egendom och Ansvar Vid all skjutverksamhet dygnet runt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 74,
+      "question": "Vad ligger grunden i för att bli en duktig skytt?",
+      "answer": "Lära sig en god skjutteknik",
+      "options": [
+        "Att delta i så många tävlingar som möjligt",
+        "Att ha rätt utrustning och ett väl inpassat vapen",
+        "Lära sig en god skjutteknik",
+        "Att skjuta så många skott som möjligt varje vecka"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 75,
+      "question": "Vad omfattar skjuttekniken främst? (7 st)",
+      "answer": "Ställning Grepp Lyftet och armens hållning Andning Riktning Avfyring Uppföljning",
+      "options": [
+        "Ställning Grepp Lyftet och armens hållning Andning Riktning Avfyring Uppföljning",
+        "Ställning, Grepp, Sikte, Andning, Riktning, Avtryck, Uppföljning",
+        "Ställning, Grepp, Lyftet, Balans, Riktning, Avfyring, Kontroll",
+        "Hållning, Grepp, Andning, Siktejustering, Riktning, Avlossning, Efterkontroll"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 76,
+      "question": "Vilken är den avgörande förmågan som gör dig till en framstående skytt?",
+      "answer": "Förmågan att kunna skjuta en lång följd av skott utan att brista i koncentration och precision",
+      "options": [
+        "Förmågan att skjuta med högsta möjliga kadens under press",
+        "Förmågan att kunna skjuta en lång följd av skott utan att brista i koncentration och precision",
+        "Förmågan att snabbt byta magasin och återuppta skjutningen",
+        "Förmågan att hantera kraftig rekyl utan att tappa kontrollen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 77,
+      "question": "Vad ska man sträva efter i sin skjutställning?",
+      "answer": "En naturlig skjutställning som inte ger onödig belastning",
+      "options": [
+        "En symmetrisk ställning med jämn vikt på båda benen",
+        "En naturlig skjutställning som inte ger onödig belastning",
+        "En låg ställning med maximal stödyta mot marken",
+        "En fast och oföränderlig ställning som ger maximal stabilitet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 78,
+      "question": "Vad krävs för att behålla samma träffbild från skott till skott?",
+      "answer": "Vapnet måste alltid fattas på samma sätt och med samma kraft",
+      "options": [
+        "Andningen måste hållas helt stilla vid avfyring",
+        "Avtrycket måste ske med exakt samma kraft varje gång",
+        "Vapnet måste alltid fattas på samma sätt och med samma kraft",
+        "Siktbilden måste vara identisk vid varje skott"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 79,
+      "question": "Vad är viktigt under riktning och avfyring?",
+      "answer": "Att kroppen är så avslappnad som möjligt (andning)",
+      "options": [
+        "Att hålla andan helt stilla under sista delen av riktningen",
+        "Att trycka av avtryckaren så snabbt som möjligt",
+        "Att spänna axlar och armar för maximal stabilitet",
+        "Att kroppen är så avslappnad som möjligt (andning)"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 80,
+      "question": "Vilka hjälpmedel har du för att rikta in vapnet? Hur ska dessa vara i förhållande till varandra? Vad kallas det?",
+      "answer": "Sikte och korn är de hjälpmedlen du har för att rikta in vapnet så noggrant som möjligt. Kornet ska ligga mitt i siktskåran och med överdelen i höjd med siktskårans överdel = struket korn.",
+      "options": [
+        "Sikte och korn är hjälpmedlen. Kornet ska ligga ovanför siktskårans överkant = flytande korn",
+        "Sikte och korn är hjälpmedlen. Kornet ska ligga i siktskårans nedre kant = struket korn",
+        "Sikte och korn är de hjälpmedlen du har för att rikta in vapnet så noggrant som möjligt. Kornet ska ligga mitt i siktskåran och med överdelen i höjd med siktskårans överdel = struket korn.",
+        "Sikte och korn är hjälpmedlen. Kornet ska täcka den svarta pricken helt = centrerat korn"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 81,
+      "question": "Varför pratar man om riktområde istället för en fast riktpunkt?",
+      "answer": "Armen, handen och pistolen rör sig hela tiden",
+      "options": [
+        "Vinden påverkar kulans bana mellan skotten",
+        "Målet rör sig i siktesbilden vid varje skott",
+        "Armen, handen och pistolen rör sig hela tiden",
+        "Rekylen förskjuter vapnet mellan varje skott"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 82,
+      "question": "Var väljs riktområdet?",
+      "answer": "I det vita en bit under den svarta pricken",
+      "options": [
+        "I mitten av den svarta pricken",
+        "På kanten mellan det svarta och det vita fältet",
+        "Längst upp i det vita, strax ovanför den svarta pricken",
+        "I det vita en bit under den svarta pricken"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 83,
+      "question": "Hur delas riktningsförfarandet in?",
+      "answer": "Grovriktning och finriktning",
+      "options": [
+        "Horisontell och vertikal riktning",
+        "Grovriktning och finriktning",
+        "Siktejustering och slutjustering",
+        "Första siktet och andra siktet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 84,
+      "question": "Hur bör avfyrningen göras?",
+      "answer": "Med en lugn, stadig rörelse med pekfingret utan att vapnet rubbas ur sitt läge",
+      "options": [
+        "Med ett kort avbrott i andningen följt av ett hårt tryck",
+        "Med en lugn, stadig rörelse med pekfingret utan att vapnet rubbas ur sitt läge",
+        "Med ett snabbt och bestämt tryck på avtryckaren",
+        "Genom att dra avtryckaren hastigt när siktbilden är perfekt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 85,
+      "question": "När uppstår oftast de eventuell fel som gör att ett skott inte träffar?",
+      "answer": "I avfyringsögonblicket",
+      "options": [
+        "I avfyringsögonblicket",
+        "Efter skottet, i efterspänningen",
+        "När vapnet lyfts till siktbilden",
+        "Vid inriktningen innan siktet läggs på målet"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 5
+      }
+    },
+    {
+      "id": 86,
+      "question": "Varför är det viktigt att följa de kommandon som ges vid en tävling?",
+      "answer": "Annars finns risken att man blir diskvalificerad och får lämna tävlingen och banan",
+      "options": [
+        "För att skjutledaren ska kunna registrera resultat korrekt",
+        "Annars finns risken att man blir diskvalificerad och får lämna tävlingen och banan",
+        "Annars får man inte full poäng på serien",
+        "För att man ska slippa omprov och kunna skjuta nästa serie direkt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": 87,
+      "question": "Hur ska vapnen bäras? Undantag?",
+      "answer": "Vapnet ska alltid bäras i hölster eller väska, förutom på skjutplatsen och vid vapenkontroll, sotning, justering och vid byte av växelsats.",
+      "options": [
+        "Vapnet ska alltid bäras i väska; undantag endast vid skjutning på skjutplatsen",
+        "Vapnet ska bäras i handen eller hölster, förutom under tävlingsskjutning",
+        "Vapnet ska bäras i hölster eller väska, förutom under uppvisning och vapenkontroll",
+        "Vapnet ska alltid bäras i hölster eller väska, förutom på skjutplatsen och vid vapenkontroll, sotning, justering och vid byte av växelsats."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": 88,
+      "question": "När får tavlan vidröras eller kritas?",
+      "answer": "Efter markering, att antalet skott kontrollerats och poängen lästs upp",
+      "options": [
+        "Efter markering och att skjutledaren gett tillstånd till nästa skytt",
+        "Efter markering, att antalet skott kontrollerats och poängen lästs upp",
+        "Efter att tavlan bytts ut inför nästa serie",
+        "Efter att sista skottet avfyrats och skjutledaren sagt ladda"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": "89a",
+      "question": "Vad gäller om vapnet slutar fungera under en träningsskjutning?",
+      "answer": "Säkra vapnet (patron ur vid behov) och åtgärda felet under säkra former.",
+      "options": [
+        "Säkra vapnet (patron ur vid behov) och åtgärda felet under säkra former.",
+        "Byt vapen direkt utan att säkra, om träningsvärd ger tillstånd",
+        "Lämna vapnet på platsen och meddela skjutledaren efter passet",
+        "Fortsätt skjuta och anmäl felet efter träningspasset"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": "89b",
+      "question": "Vad gäller vid vapenfel/eldavbrott i en precisionstävling?",
+      "answer": "Klickad patron får bytas inom skjuttiden (visa den för skjutledaren efter serien). Vapenfel ger inte omskjutning; du får själv avhjälpa och fortsätta inom tiden.",
+      "options": [
+        "Klickad patron får bytas efter serien; vapenfel ger rätt till en omskjutning",
+        "Klickad patron ger rätt till omskjutning; vapenfel får åtgärdas efter serien",
+        "Klickad patron får bytas inom skjuttiden (visa den för skjutledaren efter serien). Vapenfel ger inte omskjutning; du får själv avhjälpa och fortsätta inom tiden.",
+        "Vid vapenfel får du byta vapen och få förlängd skjuttid utan att visa patronen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": "89c",
+      "question": "Vad gäller vid eldavbrott i en fältskyttetävling om du vill ha omskjutning?",
+      "answer": "Sänk vapnet i skjutriktningen, fria handen upp, inget mer. Anmäl eldavbrott efter Eld upphör; stationschef bedömer. Max 1 omskjutning per start. Åtgärdar du själv inom tiden förbrukas omskjutningsrätten.",
+      "options": [
+        "Sänk vapnet i skjutriktningen, fria handen upp, inget mer. Anmäl eldavbrott efter Eld upphör; stationschef bedömer. Max 1 omskjutning per start. Åtgärdar du själv inom tiden förbrukas omskjutningsrätten.",
+        "Sänk vapnet, fria handen upp och ropa eldavbrott direkt. Max två omskjutningar per start",
+        "Sänk vapnet och lämna stationen; anmäl eldavbrott hos stationschefen efter serien",
+        "Anmäl eldavbrott omedelbart; stationschef bedömer. Omskjutningsrätten behålls om du åtgärdar felet själv"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": 90,
+      "question": "Vad är precisionsskjutning?",
+      "answer": "Internationella 10-ringade precisionstavlan Avstånd: 25 m 5-skotts-serier på vardera fem minuter",
+      "options": [
+        "Internationella 10-ringade precisionstavlan Avstånd: 25 m 5-skotts-serier på vardera fem minuter",
+        "Internationella 8-ringade precisionstavlan. Avstånd: 25 m, 5-skotts-serier på tre minuter",
+        "Internationella 10-ringade precisionstavlan. Avstånd: 25 m, 10-skotts-serier på fem minuter",
+        "Nationell 10-ringad precisionstavla. Avstånd: 50 m, 6-skotts-serier på tio minuter"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 7
+      }
+    },
+    {
+      "id": 91,
+      "question": "Nämn några tävlingsgrenar inom Svenska pistolskytteförbundet (SPSF)",
+      "answer": "Precisionsskjutning Snabbskjutning Fältskjutning PPC Nationell helmatch Militär snabbmatch Magnumfältskjutning Skidskytte och Springskytte Magnumprecision Luftpistolskytte Falling target",
+      "options": [
+        "Precisionsskjutning Snabbskjutning Fältskjutning PPC Nationell helmatch Militär snabbmatch Magnumfältskjutning Skidskytte och Springskytte Magnumprecision Luftpistolskytte Falling target",
+        "Precisionsskjutning Snabbskjutning Fältskjutning Sportpistol Nationell helmatch Militär snabbmatch",
+        "Fripistol Snabbskjutning Fältskjutning Standardpistol Snabbpistol Luftpistol Grovpistol",
+        "Precisionsskjutning Fältskjutning PPC Grovpistol Trap och Skeet Magnumfältskjutning Luftpistol"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 7
+      }
+    },
+    {
+      "id": 92,
+      "question": "Nämn några olika tävlingsgrenar inom Svenska Skyttesportförbundet (SvSF)",
+      "answer": "Fripistol Snabbpistol Sportpistol Luftpistol Grovpistol Standardpistol Snabbluftpistol Falling target",
+      "options": [
+        "Precisionsskjutning Snabbskjutning Fältskjutning PPC Magnumprecision Springskytte Falling target",
+        "Precisionsskjutning Fältskjutning PPC Magnumprecision Springskytte Skidskytte Militär snabbmatch",
+        "Fripistol Snabbpistol Sportpistol Luftpistol Grovpistol Standardpistol Snabbluftpistol Falling target",
+        "Nationell helmatch Militär snabbmatch Magnumfältskjutning Skidskytte PPC Grovpistol"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 7
+      }
+    },
+    {
+      "id": 93,
+      "question": "Nämn några olika skjutställningar.",
+      "answer": "Stående med/utan stödhand Sittande Sittande på knä, ett eller två knä i marken Liggande",
+      "options": [
+        "Stående med ryggstöd Sittande på pall Knästående på ena knät Liggande på sidan",
+        "Stående med/utan stödhand Sittande Sittande på knä, ett eller två knä i marken Liggande",
+        "Stående Sittande på marken Liggande Liggande med studsstöd",
+        "Stående utan stöd Sittande på pall Liggande med armböjstöd Halvkneande med stöd"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 7
+      }
+    },
+    {
+      "id": 94,
+      "question": "Varför är skyttarna uppdelade i olika klasser?",
+      "answer": "För att få rättvisa förutsättningar är skyttarna uppdelade i olika klasser beroende på kompetens.",
+      "options": [
+        "För att skilja juniorer, damer och herrar åt i resultatlistan",
+        "För att skyttarna ska kunna använda olika vapentyper i samma tävling",
+        "För att få jämna starter vid tävlingar med många deltagare",
+        "För att få rättvisa förutsättningar är skyttarna uppdelade i olika klasser beroende på kompetens."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 7
+      }
+    },
+    {
+      "id": 95,
+      "question": "Vilka klasser finns Svenska Pistolskytteförbundet (banoch fältskjutning samt militär snabbmatch)?",
+      "answer": "i Klass 1 Klass 2 Klass 3 Junior Damklass Veteraner",
+      "options": [
+        "Klass 1 Klass 2 Herrklass Dam Junior Veteran och Senior",
+        "i Klass 1 Klass 2 Klass 3 Junior Damklass Veteraner",
+        "Herrklass 1 Herrklass 2 Damklass Junior Veteran Master",
+        "A-klass B-klass C-klass Junior Dam Veteran"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 7
+      }
+    },
+    {
+      "id": 96,
+      "question": "Vad bör man göra för varje träningspass?",
+      "answer": "Bestämma sig för vilket moment man ska träna på; t.ex. avfyring, siktbild etc.",
+      "options": [
+        "Träna samma moment varje pass tills tekniken sitter ordentligt",
+        "Bestämma sig för vilket moment man ska träna på; t.ex. avfyring, siktbild etc.",
+        "Följa föreningens veckoschema för skjutträning utan egen planering",
+        "Börja med fysisk uppvärmning och avsluta med en hel serie på tavlan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 97,
+      "question": "Vilka typer av träning är viktigt för att bli duktig i skytte?",
+      "answer": "Teknikträning, fysisk träning och mental träning",
+      "options": [
+        "Teknikträning, fysisk träning och mental träning",
+        "Fysisk träning, teoretisk träning och banläggning",
+        "Teknikträning, tävlingsträning och vapenvård",
+        "Teknikträning, taktisk träning och ammunitionsval"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 98,
+      "question": "Vad menas med fysisk träning?",
+      "answer": "Kondition, styrka, rörlighet och koordination",
+      "options": [
+        "Kondition, styrka, smidighet och muskeluthållighet",
+        "Styrka, snabbhet, explosivitet och reaktionsförmåga",
+        "Kondition, styrka, rörlighet och koordination",
+        "Uthållighet, balans, flexibilitet och syresättning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 99,
+      "question": "Vilka egenskaper är viktiga för en pistolskytt?",
+      "answer": "Att kunna koncentrera sig under tuffa tävlingar, att inte låta sig störas av händelser runt omkring sig och att kunna hantera stor press är egenskaper som är viktigare för en pistolskytt.",
+      "options": [
+        "Att kunna koncentrera sig under tuffa tävlingar, att inte låta sig störas av händelser runt omkring sig och att kunna hantera stor press är egenskaper som är viktigare för en pistolskytt.",
+        "Att kunna skjuta snabbt, hålla vapnet länge stilla och ha god balans är avgörande",
+        "Stor muskelstyrka, bra syn och snabba reflexer är de viktigaste egenskaperna för en pistolskytt",
+        "Att vara lugn hemma men kunna öka tempot under tävling är det viktigaste"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 100,
+      "question": "Vilka är de tre viktigaste områdena att träna på när det gäller mental träning?",
+      "answer": "Avslappning, koncentration, målbild",
+      "options": [
+        "Koncentration, motivation, stresshantering",
+        "Avslappning, visualisering, självförtroende",
+        "Avslappning, koncentration, målbild",
+        "Målbild, andning, självkontroll"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": "101a",
+      "question": "Hur påverkar alkohol skyttet?",
+      "answer": "Försämrar omdömet, reaktionshastigheten, samspelet mellan nerver och muskler",
+      "options": [
+        "Ökar muskelstyrkan och förbättrar koordinationen",
+        "Förbättrar koncentrationen och minskar tunnelseende",
+        "Försämrar omdömet, reaktionshastigheten, samspelet mellan nerver och muskler",
+        "Påverkar enbart hörseln och balansen, inte skytteförmågan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": "101b",
+      "question": "Hur påverkar koffein skyttet?",
+      "answer": "Försämrar förmågan att hålla vapnet stilla",
+      "options": [
+        "Minskar pulsen och förbättrar vapenstabiliteten",
+        "Har ingen påtaglig effekt på skytteprestationen",
+        "Försämrar förmågan att hålla vapnet stilla",
+        "Ger bättre syn på längre avstånd"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 102,
+      "question": "Vad är dopning?",
+      "answer": "Doping är användning av förbjudna medel och metoder som kan påverka prestationsförmågan.",
+      "options": [
+        "Doping är när en skytt använder mediciner utan att informera tävlingsledningen",
+        "Doping är användning av förbjudna medel och metoder som kan påverka prestationsförmågan.",
+        "Doping är alla former av mental träning som ger tävlingsfördelar",
+        "Doping är användning av lagliga kosttillskott som förbättrar skytteprestationen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 103,
+      "question": "Vad innebär det att vara medlem i en pistolskytteförening utöver att bara skjuta pistol?",
+      "answer": "Bidra med sina egenskaper och förmågor till att utveckla föreningen och dess verksamhet",
+      "options": [
+        "Bidra med sina egenskaper och förmågor till att utveckla föreningen och dess verksamhet",
+        "Delta i minst två tävlingar per år och betala medlemsavgiften i tid",
+        "Genomgå vapenkontroll och hålla sig uppdaterad om säkerhetsreglerna",
+        "Deltaga i föreningens årsmöte och rösta i styrelseval varje år"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 104,
+      "question": "Ge exempel på vidareutbildningar.",
+      "answer": "Föreningskunskap, ledareoch tränarutbildningar, mental träning, jury/domarutbildning, banläggning, vapenkunskap, m.m",
+      "options": [
+        "Föreningskunskap, ledareoch tränarutbildningar, mental träning, jury/domarutbildning, banläggning, vapenkunskap, m.m",
+        "Klubbmästerskap, träningspass på banan och distriktsmatcher",
+        "Teoretiskt prov för pistolskyttekort, medlemsregistrering och årsavgift",
+        "Grundkurs pistolskytte, första skjuttillfället och introduktion till vapenhantering"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 105,
+      "question": "SPSF har byggt upp en Instruktörsorganisation i tre nivåer. Vilka?",
+      "answer": "Riksinstruktörer Kretsinstruktörer Föreningsinstruktörer",
+      "options": [
+        "Riksinstruktörer Baninstruktörer Föreningsinstruktörer",
+        "Riksinstruktörer Distriktsinstruktörer Klubbinstruktörer",
+        "Huvudinstruktörer Kretsinstruktörer Ungdomsinstruktörer",
+        "Riksinstruktörer Kretsinstruktörer Föreningsinstruktörer"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 106,
+      "question": "Pistolskyttekortet har tidigare varit gemensamt för de båda organisationerna. Emellertid har Skyttesportförbundet beslutat att införa ett, för sektionerna gemensamt: vaddå?",
+      "answer": "Skyttekort",
+      "options": [
+        "Skyttekort",
+        "Sportskyttekort",
+        "Vapenhandhavarkort",
+        "Pistolskyttekort"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 8
+      }
+    },
+    {
+      "id": 107,
+      "question": "Vad är skillnaden på etik och moral?",
+      "answer": "Ofta definieras etik som teorin och reflektionen—läran om vad som är rätt och fel—medan moralen är själva handlingen och hur vi agerar i praktiken.",
+      "options": [
+        "Moral är teorin om rätt och fel; etik är hur man agerar i praktiken",
+        "Ofta definieras etik som teorin och reflektionen—läran om vad som är rätt och fel—medan moralen är själva handlingen och hur vi agerar i praktiken.",
+        "Etik handlar om lagar och regler; moral handlar om personliga känslor och samvete",
+        "Etik gäller samhällets normer; moral gäller individens val i vardagen"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": 108,
+      "question": "Vad är Pistolskyttekortet ett bevis på?",
+      "answer": "God och enhetlig grundutbildning Teoretisk och praktisk kompetens för att kunna delta i enskilt skytte",
+      "options": [
+        "God och enhetlig grundutbildning Teoretisk och praktisk kompetens för att kunna delta i enskilt skytte",
+        "Rätt att delta i alla nationella och internationella tävlingar",
+        "Behörighet att inneha och förvara vapen i hemmet",
+        "Att skytten uppfyller kraven för vapenlicens enligt polisens föreskrifter"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 109,
+      "question": "När anses en tävling påbörjad och avslutad?",
+      "answer": "Påbörjad: då skytten anländer till tävlingsområdet Avslutad: då skytten efter sista skjutmomentet och visitation lämnat skjutområdet",
+      "options": [
+        "Påbörjad: vid första skottet Avslutad: efter sista serien är skjuten",
+        "Påbörjad: då skytten anländer till tävlingsområdet Avslutad: då skytten efter sista skjutmomentet och visitation lämnat skjutområdet",
+        "Påbörjad: när skjutledaren säger ladda Avslutad: efter visitation före avfärd",
+        "Påbörjad: vid registrering Avslutad: när resultatlistan är fastställd"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": 110,
+      "question": "Nämn de 10 viktigaste grundreglerna för säkerhet",
+      "answer": "1. Förbjudet att sikta mot någon / något som kan ta skada 2. Utgå från att vapen är laddade kontrollera vid hantering 3. Mellan kommando \"Patron ur\" och \"Ladda\" ska vapnet vara proppat 4. Mynningen alltid i säker riktning 5. Kontrollera vad som finns bakom målet 6. Vapen i väska eller hölster vid förflyttning. 7. Skjutledare ska alltid finnas/utses 8. Hantera aldrig vapen eller ammunition om du är påverkad av droger/alkohol 9. Hindra olyckor med barn och vapen genom säker förvaring av vapen och ammunition 10. Vapen som inte är under direkt uppsikt ska förvaras säkert och lagenligt",
+      "options": [
+        "1. Förbjudet att sikta mot någon 2. Vapen alltid oladdade vid hantering 3. Mellan Ladda och Patron ur ska vapnet vara proppat 4. Mynningen mot himlen vid förflyttning 5. Kontrollera vad som finns framför målet 6. Vapen i handen vid förflyttning på banan 7. Skjutledare behövs endast vid tävling 8. Hantera vapen försiktigt även vid lätt påverkan 9. Barn och vapen ska hållas isär på skjutbanan 10. Vapen under uppsikt får lämnas på bänken",
+        "1. Utgå från att vapen är oladdade 2. Mynningen alltid mot marken 3. Vapen i hölster vid förflyttning 4. Säkra vapen efter varje skott 5. Ammunition förvaras separat från vapen 6. Förbjudet att sikta mot människor 7. Kontrollera bakom målet 8. Patron ur vid skjutbanans kant 9. Barn får inte hantera vapen 10. Skjutledare utses vid varje träning",
+        "1. Sikt aldrig mot levande mål 2. Kontrollera att vapen är oladdat 3. Proppa vapnet efter varje serie 4. Mynningen i säker riktning vid skjutning 5. Se till att inget finns framför målet 6. Bär vapen i väska på väg till banan 7. Minst en skjutledare per grupp 8. Undvik alkohol men droger är tillåtna i små mängder 9. Förvara ammunition och vapen tillsammans under lås 10. Oladdade vapen behöver inte förvaras särskilt",
+        "1. Förbjudet att sikta mot någon / något som kan ta skada 2. Utgå från att vapen är laddade kontrollera vid hantering 3. Mellan kommando \"Patron ur\" och \"Ladda\" ska vapnet vara proppat 4. Mynningen alltid i säker riktning 5. Kontrollera vad som finns bakom målet 6. Vapen i väska eller hölster vid förflyttning. 7. Skjutledare ska alltid finnas/utses 8. Hantera aldrig vapen eller ammunition om du är påverkad av droger/alkohol 9. Hindra olyckor med barn och vapen genom säker förvaring av vapen och ammunition 10. Vapen som inte är under direkt uppsikt ska förvaras säkert och lagenligt"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 111,
+      "question": "När får laddning ske?",
+      "answer": "Endast efter kommando vid tävling/organiserad träning",
+      "options": [
+        "Efter att skjutledaren lämnat skjutplatsen",
+        "När alla skyttar har fått sina mål utdelade",
+        "Endast efter kommando vid tävling/organiserad träning",
+        "När skytten anlänt till banan och siktat in"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 112,
+      "question": "När får skytt på bana hantera vapnet?",
+      "answer": "När skjutledare gett tillåtelse/kommando",
+      "options": [
+        "När skjutledaren har avslutat signalen",
+        "När skjutledare gett tillåtelse/kommando",
+        "Efter att vapnet tagits ur hölstret",
+        "När skytten känner sig redo att börja"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 113,
+      "question": "När används kommandot \"Avbryt\" och av vem?",
+      "answer": "Av alla som upptäcker fara",
+      "options": [
+        "Av vapenvakten vid visitation",
+        "Bara av tävlingsdomare vid regelbrott",
+        "Endast av skjutledaren vid fel mål",
+        "Av alla som upptäcker fara"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 114,
+      "question": "Vad görs vid kommandot \"Avbryt\"?",
+      "answer": "Sluta skjut, sänk vapnet, lyssna på skjutledaren",
+      "options": [
+        "Sluta skjut, sänk vapnet, lyssna på skjutledaren",
+        "Fullföra påbörjad serie och sedan sänka vapnet",
+        "Snabbt tömma magasinet och fortsätta skjuta",
+        "Lyft vapnet och sikta mot marken"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 115,
+      "question": "Hur hålls vapnet vid hantering såsom laddning och patron ur?",
+      "answer": "Framför kroppen, pipan i säker riktning/skjutriktning, fingret utanför avtryckaren",
+      "options": [
+        "På axeln med fingret på avtryckaren",
+        "Framför kroppen, pipan i säker riktning/skjutriktning, fingret utanför avtryckaren",
+        "Vid sidan av kroppen med pipan nedåt",
+        "Bakom ryggen i skjutriktning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 116,
+      "question": "Vad är vapenvaktens uppgift?",
+      "answer": "Se till att ingen närmar sig eller vidrör vapen",
+      "options": [
+        "Se till att ingen närmar sig eller vidrör vapen",
+        "Genomföra visitation av skyttarnas vapen",
+        "Fördela skjuttider och banor",
+        "Kontrollera att alla har rätt ammunition"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 117,
+      "question": "Hur sker visitation?",
+      "answer": "Visa att patronläge, låda/trumma och magasin är tomma (håll upp vapen och magasin, eller lägg på skjutbänk om sådan finns). Säkerhetspropp/bricka isätts för att visa tomt patronläge; på revolver kontrolleras trumman innan propp/bricka. Visiterande bekräftar med klapp på axeln. På bana: före vapnet lämnar skjutplatsen.",
+      "options": [
+        "Visa att patronläge, låda/trumma och magasin är tomma (håll upp vapen och magasin, eller lägg på skjutbänk om sådan finns). Säkerhetspropp/bricka isätts för att visa tomt patronläge; på revolver kontrolleras trumman innan propp/bricka. Visiterande bekräftar med klapp på axeln. På bana: före vapnet lämnar skjutplatsen.",
+        "Visa tomt magasin genom att ladda om; bekräftelse med nick från skjutledaren",
+        "Visa fullt magasin genom att hålla upp det; skjutledaren svarar med klapp på axeln",
+        "Lägg vapnet på marken utan att visa patronläge; skjutledaren kontrollerar själv"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 118,
+      "question": "Vad gäller för vapen i hölster eller väska?",
+      "answer": "Får tas upp på skjutplats Får tas upp vid kontroll, sotning, justering Tas upp i säker riktning",
+      "options": [
+        "Får endast tas upp i skyddade tält",
+        "Får aldrig tas upp på skjutplats",
+        "Får tas upp på skjutplats Får tas upp vid kontroll, sotning, justering Tas upp i säker riktning",
+        "Får tas upp när som helst på banan"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 119,
+      "question": "Hur ofta sker besiktning av skjutbana?",
+      "answer": "Var 5:e år",
+      "options": [
+        "Var 3:e år",
+        "Var 5:e år",
+        "Var 10:e år",
+        "Varje säsong"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": 120,
+      "question": "Vad krävs för att få delta i tävling?",
+      "answer": "Pistolskyttekortet (undantag: föreningstävling)",
+      "options": [
+        "Vapenlicens och medlemskort",
+        "Medlemskap i SPSF",
+        "Godkänd vapenförvaring och vapenlicens",
+        "Pistolskyttekortet (undantag: föreningstävling)"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 1
+      }
+    },
+    {
+      "id": 121,
+      "question": "När sker kritning?",
+      "answer": "Efter markering och notering i protokoll",
+      "options": [
+        "Under markeringen innan kulhålets poäng avlästs",
+        "Efter markering och notering i protokoll",
+        "Direkt efter att skottet avlossats",
+        "Före resultatet lagts in i dator"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": 122,
+      "question": "Varför används tolk?",
+      "answer": "Avgöra om ytterkant tangeras",
+      "options": [
+        "Avgöra om skottet träffat inre svarta ringen",
+        "Registrera antal poäng i protokoll",
+        "Mäta avstånd mellan skotthål",
+        "Avgöra om ytterkant tangeras"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 6
+      }
+    },
+    {
+      "id": "123a",
+      "question": "Vid vilken ålder får man i regel börja skjuta kaliber .22?",
+      "answer": "Efter tidigast fyllda 15 år. (Föreningsstyrelsen kan i enskilda fall besluta om annan ålder.)",
+      "options": [
+        "Från 14 år",
+        "Efter tidigast fyllda 15 år. (Föreningsstyrelsen kan i enskilda fall besluta om annan ålder.)",
+        "Från 12 år",
+        "Från 18 år"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": "123b",
+      "question": "Vid vilken ålder får man i regel skjuta grövre kaliber än .22?",
+      "answer": "Från och med det år man fyller 18 år. (Föreningsstyrelsen kan i enskilda fall besluta om annan ålder.)",
+      "options": [
+        "Från och med det år man fyller 18 år. (Föreningsstyrelsen kan i enskilda fall besluta om annan ålder.)",
+        "Från 16 år",
+        "Efter pistolskyttekort, oberoende av ålder",
+        "Från och med 21 år"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": null
+      }
+    },
+    {
+      "id": 124,
+      "question": "Hur ska vapnen förvaras när de inte brukas (långtidsförvaring)?",
+      "answer": "När skjutvapen inte används ska de förvaras i säkerhetsskåp som uppfyller SS 3492 eller SSF 3492 (kontrollera dekalen i skåpet).",
+      "options": [
+        "När skjutvapen inte används ska de förvaras i säkerhetsskåp som uppfyller SS 3492 eller SSF 3492 (kontrollera dekalen i skåpet).",
+        "I hölster i hemmet om dörren är låst",
+        "I låst garderob i föreningslokal",
+        "Delat vapen i två separata lådor utan krav på godkänt skåp"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 125,
+      "question": "Vad menas med delat vapen?",
+      "answer": "Vital del och ammunition ska förvaras separat",
+      "options": [
+        "Magasin och låda ska förvaras i samma skåp",
+        "Pipan och kolv ska förvaras monterade men utan ammunition",
+        "Vapnet delas mellan två personer i hushållet",
+        "Vital del och ammunition ska förvaras separat"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Säkerhetskaraktär",
+        "psk_kapitel": 4
+      }
+    },
+    {
+      "id": 126,
+      "question": "Vilka vapengrupper finns inom SPSF?",
+      "answer": "Luftpistol, A, B, C, R, M, PPC",
+      "options": [
+        "Luftpistol, A, B, C, R, M, PPC",
+        "Luftpistol, A, B, C, R och grovpistol",
+        "A, B, C, D, E, F och luftpistol",
+        "Luftpistol, A, B, C, D, PPC, F"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Skjutlära och utrustning",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 127,
+      "question": "Vilket undantag gäller för pistoler/revolvrar inom SvSF?",
+      "answer": "Pistoler/revolvrar används även inom sportskyttets grenar (SvSF/ISSF). Undantag/begränsningar enligt grenreglerna: t.ex. grovpistol högst ca .38 (.30–.38), och för många 25 m-pistoler max piplängd 153 mm (friistol har andra måttregler).",
+      "options": [
+        "Pistoler/revolvrar får inte användas inom sportskyttet",
+        "Endast grovpistol .45 får användas i alla grenar",
+        "Sportpistoler får ha piplängd upp till 200 mm i alla grenar",
+        "Pistoler/revolvrar används även inom sportskyttets grenar (SvSF/ISSF). Undantag/begränsningar enligt grenreglerna: t.ex. grovpistol högst ca .38 (.30–.38), och för många 25 m-pistoler max piplängd 153 mm (friistol har andra måttregler)."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 128,
+      "question": "Vilket vapen är unikt för sportskyttet?",
+      "answer": "Fripistol",
+      "options": [
+        "Revolver klass R",
+        "Grovpistol",
+        "Fripistol",
+        "Luftpistol"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 129,
+      "question": "Vapengrupp A",
+      "answer": "Grovkalibriga pistoler av tjänstevapentyp Kolven får inte ha tumhylla eller handstöd Avtryck: lägst 1,36 kg Kaliber .30-.45",
+      "options": [
+        "Grovkalibriga pistoler, kolv med tumhylla tillåten, avtryck minst 1 kg, kaliber .22-.38",
+        "Grovkalibriga pistoler av tjänstevapentyp Kolven får inte ha tumhylla eller handstöd Avtryck: lägst 1,36 kg Kaliber .30-.45",
+        "Grovkalibriga revolvrar med anatomisk kolv, avtryck minst 500 g, kaliber .30-.45",
+        "Finkalibriga pistoler av tjänstevapentyp, avtryck minst 1,36 kg, kaliber .22"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 130,
+      "question": "Vapengrupp B",
+      "answer": "Grovkalibriga pistoler och revolvrar Kolven får ha anatomisk utformning Avtryck: lägst 1 kg Kaliber .30-.45",
+      "options": [
+        "Magnumpistoler för tävling, anatomisk kolv, avtryck minst 1 kg, kaliber .44-.50",
+        "Finkalibriga pistoler och revolvrar, anatomisk kolv, kaliber .22, avtryck 1,36 kg",
+        "Grovkalibriga pistoler och revolvrar Kolven får ha anatomisk utformning Avtryck: lägst 1 kg Kaliber .30-.45",
+        "Grovkalibriga pistoler av tjänstevapentyp utan anatomisk kolv, avtryck 1,36 kg"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 131,
+      "question": "Vapengrupp C",
+      "answer": "Finkalibriga pistoler och revolvrar Kolven får ha anatomisk utformning Avtryck: lägst 1 kg Endast kaliber .22",
+      "options": [
+        "Grovkalibriga pistoler och revolvrar, anatomisk kolv, avtryck 1,36 kg, kaliber .30-.45",
+        "Finkalibriga pistoler, tjänstevapentyp utan anatomisk kolv, avtryck 500 g",
+        "Finkalibriga pistoler och revolvrar Kolven får ha anatomisk utformning Avtryck: lägst 1 kg Endast kaliber .22",
+        "Luftpistoler i kaliber .22 med anatomisk kolv och avtryck 1 kg"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 132,
+      "question": "Vapengrupp R",
+      "answer": "Grovkalibriga revolvrar (.30–.45), avtryck lägst 1,36 kg; kolven får ha anatomisk utformning. Används framför allt i fältskjutning och militär snabbmatch (ej precision; magnumregler hänvisar delvis till R-mått).",
+      "options": [
+        "Finkalibriga revolvrar för precision, avtryck 1,36 kg, kaliber .22",
+        "Grovkalibriga pistoler (.30-.45), avtryck minst 1 kg, kolv utan anatomisk utformning",
+        "Magnumrevolvrar för PPC, avtryck 1 kg, kolv med tumhylla",
+        "Grovkalibriga revolvrar (.30–.45), avtryck lägst 1,36 kg; kolven får ha anatomisk utformning. Används framför allt i fältskjutning och militär snabbmatch (ej precision; magnumregler hänvisar delvis till R-mått)."
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 133,
+      "question": "Vapengrupp M",
+      "answer": "Grovkalibriga pistoler och revolvrar för magnumtävlingar",
+      "options": [
+        "Grovkalibriga pistoler endast för fältskjutning",
+        "Finkalibriga pistoler för magnumtävlingar",
+        "Luftpistoler för PPC-tävlingar",
+        "Grovkalibriga pistoler och revolvrar för magnumtävlingar"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 134,
+      "question": "Vapengrupp PPC",
+      "answer": "Grovkalibriga pistoler och revolvrar för PPC",
+      "options": [
+        "Grovkalibriga pistoler och revolvrar för PPC",
+        "Grovkalibriga pistoler endast för militär snabbmatch",
+        "Finkalibriga pistoler och revolvrar för PPC",
+        "Magnumrevolvrar för fältskjutning"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    },
+    {
+      "id": 135,
+      "question": "Vilka krav gäller för tävlingsluftpistol (SPSF/ISSF)?",
+      "answer": "Framdrivning: fjäder, CO2 eller komprimerad luft. Avtryck: lägst 500 g. Vikt max 1500 g. Kaliber 4,5 mm (.177). Ska rymmas i låda 420×200×50 mm.",
+      "options": [
+        "Fjäder eller luft. Avtryck minst 500 g. Vikt max 2000 g. Ska rymmas i låda 300×200×50 mm",
+        "Framdrivning: fjäder, CO2 eller komprimerad luft. Avtryck: lägst 500 g. Vikt max 1500 g. Kaliber 4,5 mm (.177). Ska rymmas i låda 420×200×50 mm.",
+        "Pneumatisk framdrivning. Avtryck minst 1,36 kg. Kaliber 4,5 mm. Ingen viktgräns",
+        "Framdrivning: CO2 eller pneumatisk. Avtryck minst 1 kg. Vikt max 1200 g. Kaliber 5,5 mm"
+      ],
+      "taxonomy": {
+        "huvudkategori": "Övrigt",
+        "psk_kapitel": 3
+      }
+    }
+  ]
+}

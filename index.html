@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Pistolskyttekortet</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body data-controls="right">
+    <div class="page">
+      <header class="header">
+        <div class="header-row">
+          <div class="header-text">
+            <h1 class="brand">Pistolskyttekortet</h1>
+            <p class="tagline">Öva teori — flashcards eller flervalsfrågor</p>
+          </div>
+          <div
+            class="side-toggle"
+            role="group"
+            aria-label="Knappplacering för enhandsbruk"
+          >
+            <button
+              type="button"
+              class="side-btn"
+              data-side="left"
+              aria-label="Knappar till vänster"
+              title="Vänster"
+            >
+              Vänster
+            </button>
+            <button
+              type="button"
+              class="side-btn is-active"
+              data-side="right"
+              aria-label="Knappar till höger"
+              title="Höger"
+            >
+              Höger
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <div class="toolbar" role="group" aria-label="Läge">
+        <span class="filter-label">Läge</span>
+        <div class="filter-chips">
+          <button type="button" class="mode-btn is-active" data-mode="flashcards">
+            Flashcards
+          </button>
+          <button type="button" class="mode-btn" data-mode="mcq">Flervalsfrågor</button>
+        </div>
+      </div>
+
+      <div class="filters" id="filters">
+        <div
+          class="filter-row"
+          id="huvud-filters"
+          role="group"
+          aria-label="Huvudkategori"
+        ></div>
+        <div
+          class="filter-row"
+          id="kapitel-filters"
+          role="group"
+          aria-label="PSK-kapitel"
+        ></div>
+      </div>
+
+      <p class="progress" id="progress" aria-live="polite"></p>
+
+      <main class="card-panel" id="panel">
+        <p class="status" id="status">Laddar…</p>
+      </main>
+
+      <div class="actions" id="actions" hidden></div>
+    </div>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
